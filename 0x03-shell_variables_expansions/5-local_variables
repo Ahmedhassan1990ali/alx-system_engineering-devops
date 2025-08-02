@@ -1,0 +1,2 @@
+#!/bin/bash
+bash -c $'set -o posix\nset\ndeclare -F'
